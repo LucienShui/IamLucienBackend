@@ -24,6 +24,8 @@ public class FriendPO {
         public static String INVALID = "others";
     }
 
+    Integer id;
+
     // 链接名称
     String name;
 
