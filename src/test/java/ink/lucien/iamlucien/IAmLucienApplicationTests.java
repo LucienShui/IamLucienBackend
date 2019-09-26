@@ -1,3 +1,4 @@
+/*
 package ink.lucien.iamlucien;
 
 import org.junit.Test;
@@ -14,3 +15,4 @@ public class IAmLucienApplicationTests {
     }
 
 }
+*/
